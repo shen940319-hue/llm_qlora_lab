@@ -1,0 +1,31 @@
+The Prowler	starred_actors	Evelyn Keyes
+Robinson Crusoe	in_language	English
+Memory	starred_actors	Billy Zane
+The Wrath of God	starred_actors	Robert Mitchum
+The Departed	has_tags	police
+Kismet	in_language	English
+Hoodwinked!	has_tags	children
+Village of the Damned	has_tags	remake
+Reel Injun	written_by	Neil Diamond
+The Parent Trap	starred_actors	Dennis Quaid
+Tarzan	has_tags	disney animated feature
+Yellow Sky	has_genre	Western
+The Happening	release_year	2008
+April Fool's Day	has_genre	Horror
+Vantage Point	has_tags	assassination
+A Patch of Blue	starred_actors	Elizabeth Hartman
+Brian's Song	starred_actors	Jack Warden
+Queens Logic	directed_by	Steve Rash
+Lost Horizon	has_tags	fantasy
+Wrong Is Right	has_genre	Thriller
+Life During Wartime	starred_actors	Allison Janney
+Red Dust	release_year	1932
+Arthur	release_year	1981
+The Girl from Jones Beach	has_genre	Comedy
+Chicken Run	release_year	2000
+Safe Haven	directed_by	Lasse Hallström
+The Dead Zone	starred_actors	Christopher Walken
+The Reluctant Debutante	starred_actors	Rex Harrison
+The Littlest Rebel	starred_actors	Shirley Temple
+The Dog Problem	starred_actors	Lynn Collins
+Chatroom	release_year	2010
