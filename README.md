@@ -3,16 +3,17 @@
 This repository contains the Jupyter Notebook and dataset used in the study "Optimization Techniques for Large Language Model Completion: Addressing New Entities, Reducing Hallucinations, and Integrating Structural Features", published in PLOS 2025.
 
 ## Repository Contents
-- `llama3-70-qlora.ipynb` — Jupyter Notebook containing the full analysis workflow used in the study, including:
+- `llama-qlora.ipynb` — Jupyter Notebook containing the full analysis workflow used in the study, including:
   1. Loading the pre-trained/fine-tuning model.
   2. Predicting triples from the dataset.
   3. Performing QLoRA fine-tuning.
 
   The notebook is organized in sequential cells. To fully reproduce the results, follow the order of execution indicated by the inline comments in the code.
 
-- `train/` — Dataset required to fine turning the model.
-- `testtiny/` — Dataset required to run the notebook and reproduce the results.
-- `test/` — Dataset required to run the notebook and reproduce the results.
+- `movie_30/`- 30% movie triple dataset.
+- `movie_50/`- 50% movie triple dataset.
+  - `train/` — Dataset required to fine turning the model.
+  - `test/` — Dataset required to run the notebook and reproduce the results.
 
 
 ## Computational Environment
